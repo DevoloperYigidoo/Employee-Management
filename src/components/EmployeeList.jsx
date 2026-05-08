@@ -10,12 +10,6 @@ function EmployeeList() {
         <table className="table table-striped table-hover">
             <thead>
                 <tr>
-                    <th>
-                        <span className="custom-checkbox">
-                            <input type="checkbox" id="selectAll" />
-                            <label htmlFor="selectAll"></label>
-                        </span>
-                    </th>
                     <th>İsim</th>
                     <th>Email</th>
                     <th>Adres</th>
